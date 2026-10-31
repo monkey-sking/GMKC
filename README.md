@@ -1,7 +1,7 @@
 # Google MyActivity Keyword Cleaner
 
 <!-- badges:start -->
-[![License](https://img.shields.io/github/license/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/commits/main) [![JavaScript](https://img.shields.io/github/languages/top/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/search?l=JavaScript) [![views](https://hits.sh/github.com/monkey-sking/GMKC.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/GMKC) [![Stars](https://img.shields.io/github/stars/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/network/members)
+[![License](https://img.shields.io/github/license/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/commits/main) [![JavaScript](https://img.shields.io/github/languages/top/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/search?l=JavaScript) [![Stars](https://img.shields.io/github/stars/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/GMKC?style=flat-square)](https://github.com/monkey-sking/GMKC/network/members)
 <!-- badges:end -->
 
 [中文版本](./README_zh.md)
